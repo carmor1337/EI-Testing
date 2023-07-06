@@ -1,20 +1,22 @@
 # EI-Testing
-# TODO
+## TODO
+
+#Avbrottsdata 
 Add spss Dataread 
+  Read the main file from a large dataset
+  Read specific RELs from Big dataset
 
 Add simple GUI in order to do demo
 
-
-Add Extract one company--Done
-
-
-Add Extract one REL or RER--Done
-
+Run test for one company
 
 Add All the tests in test dictionary
 
 
+#SR
 
+
+# misc
 Test improved speed--Simi Done, cannot be done faster then currently is.
 
 
